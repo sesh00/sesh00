@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">  
-<img style="margin: 10px" src="https://hotwalls.ru/wallpapers/ves_yujnyy_park/download/1920x1200.jpg" width="40%" />  
+<img style="margin: 10px"https://phonoteka.org/uploads/posts/2022-06/1655386154_67-phonoteka-org-p-yuzhnii-park-oboi-na-telefon-71.jpg" width="40%" />  
 </div>
 
 I'm Ernest, a machine learning engineer and full-stack developer from Saint-Petersburg I'm passionate about exploring novel ideas and building innovative digital solutions for challenging problems. I enjoy being involved in the entire product creation process, from initial concept to release.

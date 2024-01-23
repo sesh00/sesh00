@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">  
-<img style="margin: 10px" src="https://c4.wallpaperflare.com/wallpaper/233/682/569/south-park-south-park-the-stick-of-truth-wallpaper-preview.jpg" width="40%" />  
+<img style="margin: 10px" src="https://c4.wallpaperflare.com/wallpaper/233/682/569/south-park-south-park-the-stick-of-truth-wallpaper-preview.jpg" width="80%" />  
 </div>
 
 I'm Ernest, a machine learning engineer and full-stack developer from Saint-Petersburg I'm passionate about exploring novel ideas and building innovative digital solutions for challenging problems. I enjoy being involved in the entire product creation process, from initial concept to release.

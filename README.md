@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">  
-<img style="margin: 10px" src="[https://user-images.githubusercontent.com/2852129/120993792-2d075d80-c784-11eb-8d35-48bf00dfe0d2.png](https://img2.freepng.ru/20180426/kbw/kisspng-computer-icons-java-%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90-5ae2595f709d26.2774016315247834554613.jpg)" width="40%" />  
+<img style="margin: 10px" src="https://hotwalls.ru/wallpapers/ves_yujnyy_park/download/1920x1200.jpg" width="40%" />  
 </div>
 
 I'm Ernest, a machine learning engineer and full-stack developer from Saint-Petersburg I'm passionate about exploring novel ideas and building innovative digital solutions for challenging problems. I enjoy being involved in the entire product creation process, from initial concept to release.
@@ -72,8 +72,3 @@ I'm Ernest, a machine learning engineer and full-stack developer from Saint-Pete
 </a>
 
 </div>  
-
-
-
-
-

@@ -58,15 +58,3 @@ I'm Ernest, a machine learning engineer and full-stack developer from Saint-Pete
 </details>
  
 ---
-
-<div align="center">
- 
-<a href="mailto:ernestrsage@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/email-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
- <a href="https://github.com/sesh00" target="_blank">
-<img src="https://img.shields.io/badge/github-%23404040.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
-</a>
-
-</div>  

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">  
 <img style="margin: 10px" src="https://c4.wallpaperflare.com/wallpaper/233/682/569/south-park-south-park-the-stick-of-truth-wallpaper-preview.jpg" width="80%" />  
 </div>

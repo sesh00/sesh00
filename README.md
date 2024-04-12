@@ -1,18 +1,12 @@
-<div align="center">
-<img src="https://c4.wallpaperflare.com/wallpaper/233/682/569/south-park-south-park-the-stick-of-truth-wallpaper-preview.jpg" align="center" style="width: 100%" />
-</div>  
-  
+<div align="center">  
+<img style="margin: 10px" src="https://c4.wallpaperflare.com/wallpaper/233/682/569/south-park-south-park-the-stick-of-truth-wallpaper-preview.jpg" width="80%" />  
+</div>
 
-### <div align="center">Hey, I'm Ernest, a machine learning engineer and full-stack developer from Saint-Petersburg</div>  
-  
+Hey, I'm Ernest, a machine learning engineer and full-stack developer from Saint-Petersburg 
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<details>
+ <summary>My Tech Stack</summary>
+ <table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  

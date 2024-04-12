@@ -1,34 +1,35 @@
-<div align="center">  
-<img style="margin: 10px" src="https://c4.wallpaperflare.com/wallpaper/233/682/569/south-park-south-park-the-stick-of-truth-wallpaper-preview.jpg" width="80%" />  
-</div>
+<div align="center">
+<img src="https://c4.wallpaperflare.com/wallpaper/233/682/569/south-park-south-park-the-stick-of-truth-wallpaper-preview.jpg" align="center" style="width: 100%" />
+</div>  
+  
 
-Hey, I'm Ernest, a machine learning engineer and full-stack developer from Saint-Petersburg 
+### <div align="center">Hey, I'm Ernest, a machine learning engineer and full-stack developer from Saint-Petersburg</div>  
+  
 
-<details>
- <summary>My Tech Stack</summary>
- <table><tr><td valign="top" width="33%">
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
 
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/2852129/120996738-e36c4200-c786-11eb-9b8b-ade79e996d7e.png" alt="React Native" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
-</div>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+</div>
+
 </td><td valign="top" width="33%">
+
 
 
 ### Backend  
 <div align="center">  
-
-
-  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -38,20 +39,14 @@ Hey, I'm Ernest, a machine learning engineer and full-stack developer from Saint
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-
-
-
-
 </div>
+
 </td><td valign="top" width="33%">
 
 
 
 ### DevOps  
 <div align="center">  
-
-
-  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
@@ -62,4 +57,4 @@ Hey, I'm Ernest, a machine learning engineer and full-stack developer from Saint
 
 </td></tr></table>  
 
-</details>
+<br/>  
